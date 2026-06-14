@@ -76,7 +76,7 @@ Node.js Applications
 Automation Systems
 Web Development
 API Development
-FiveM / Lua Development
+SA-MP / Lua Development
 ```
 
 ---
