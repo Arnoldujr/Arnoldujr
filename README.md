@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<a href="https://github.com/[USERNAME]">
+<a href="https://github.com/[Arnoldujr]">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0F172A,100:312E81&text=ARNOLD&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Discord%20Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20Community%20Owner&descAlignY=62&descSize=17" width="100%"/>
 </a>
 
@@ -232,7 +232,7 @@ It's a place for developers, bot creators and people who are simply interested i
 
 <br>
 
-<a href="[ARIZONA_INVITE]">
+<a href="[https://discord.gg/cnTvY8MAKu]">
 <img src="https://img.shields.io/badge/JOIN%20ARIZONA-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
