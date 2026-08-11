@@ -6,6 +6,6 @@
     </style>
   </defs>
 
-  <!-- Grid: 52 columns (weeks) x 7 rows (days) -->
-  <!-- cell size = 12, gap = 4, step = 16 -->
-  <g id="grid">
+  <!-- Grid background using explicit rects so each cell can animate -->
+  <!-- Grid origin at (10,10). cell size = 12, gap = 4, step = 16 -->
+  <g id="grid" transform="translate(10,10)">
