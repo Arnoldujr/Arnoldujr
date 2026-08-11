@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="828" height="132" viewBox="0 0 852 132" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="852" height="132" viewBox="0 0 852 132" role="img" aria-labelledby="title">
   <title id="title">52-week contribution snake animation</title>
   <defs>
     <style>
@@ -8,4 +8,4 @@
 
   <!-- Grid: 52 columns (weeks) x 7 rows (days) -->
   <!-- cell size = 12, gap = 4, step = 16 -->
-  <g id="grid" transform="translate(10,10)">
+  <g id="grid">
