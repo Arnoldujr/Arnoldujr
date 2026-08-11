@@ -26,7 +26,7 @@ I'm a Discord developer building bots, integrations and small tooling. I work ma
 
 ## Contribution snake
 
-<img src="./snake.svg" alt="Contribution snake" width="680" />
+<img src="./snake.svg" alt="Contribution snake" width="828" />
 
 ## Contact
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="email" /> <img src="https://img.shields.io/badge/Discord-%23?logo=discord&logoColor=white&style=flat-square" alt="discord" />

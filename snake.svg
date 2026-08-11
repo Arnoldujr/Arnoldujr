@@ -1,101 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img" aria-labelledby="title">
-  <title id="title">Contribution snake animation</title>
-  <!-- Grid parameters -->
-  <!-- cols = 8, rows = 7, cell = 14, gap = 6 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="828" height="132" viewBox="0 0 852 132" role="img" aria-labelledby="title">
+  <title id="title">52-week contribution snake animation</title>
   <defs>
     <style>
-      .cell { rx: 3; ry: 3; fill: #ebedf0; }
+      .cell { rx: 2; ry: 2; fill: #ebedf0; }
     </style>
   </defs>
 
-  <!-- Draw grid of cells -->
+  <!-- Grid: 52 columns (weeks) x 7 rows (days) -->
+  <!-- cell size = 12, gap = 4, step = 16 -->
   <g id="grid" transform="translate(10,10)">
-    <!-- generate 7 rows x 8 cols -->
-    <!-- each cell will animate fill with a staggered begin time to make the "snake" -->
-    <!-- cell size 14, gap 6 -->
-    <!-- We'll loop through cells in reading order -->
-    <!-- Row major coordinates computed below -->
-    <!-- (Manually listed for portability) -->
-    <rect x="0"   y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20"  y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.12s" repeatCount="indefinite" />
-    </rect>
-    <rect x="40"  y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.24s" repeatCount="indefinite" />
-    </rect>
-    <rect x="60"  y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.36s" repeatCount="indefinite" />
-    </rect>
-    <rect x="80"  y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.48s" repeatCount="indefinite" />
-    </rect>
-    <rect x="100" y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.60s" repeatCount="indefinite" />
-    </rect>
-    <rect x="120" y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.72s" repeatCount="indefinite" />
-    </rect>
-    <rect x="140" y="0"   width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.84s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- Row 2 -->
-    <rect x="0"   y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="0.96s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20"  y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.08s" repeatCount="indefinite" />
-    </rect>
-    <rect x="40"  y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.20s" repeatCount="indefinite" />
-    </rect>
-    <rect x="60"  y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.32s" repeatCount="indefinite" />
-    </rect>
-    <rect x="80"  y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.44s" repeatCount="indefinite" />
-    </rect>
-    <rect x="100" y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.56s" repeatCount="indefinite" />
-    </rect>
-    <rect x="120" y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.68s" repeatCount="indefinite" />
-    </rect>
-    <rect x="140" y="20"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.80s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- Row 3 -->
-    <rect x="0"   y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="1.92s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20"  y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.04s" repeatCount="indefinite" />
-    </rect>
-    <rect x="40"  y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.16s" repeatCount="indefinite" />
-    </rect>
-    <rect x="60"  y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.28s" repeatCount="indefinite" />
-    </rect>
-    <rect x="80"  y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.40s" repeatCount="indefinite" />
-    </rect>
-    <rect x="100" y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.52s" repeatCount="indefinite" />
-    </rect>
-    <rect x="120" y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.64s" repeatCount="indefinite" />
-    </rect>
-    <rect x="140" y="40"  width="14" height="14" class="cell">
-      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" keyTimes="0;0.12;0.45;0.8;1" dur="4.2s" begin="2.76s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- Rows 4-7 can be duplicated or omitted — this gives the "snake" motion already -->
-  </g>
-
-  <!-- Optional caption text -->
-  <text x="10" y="108" font-size="10" fill="#6a737d">Contribution snake — visual only</text>
-</svg>
