@@ -33,7 +33,11 @@ Most of what I build lives inside Discord — bots that automate the boring stuf
 
 ## Contributions
 
-<img src="./pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="1166" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Contact
 
