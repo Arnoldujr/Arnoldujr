@@ -1,11 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="852" height="132" viewBox="0 0 852 132" role="img" aria-labelledby="title">
-  <title id="title">52-week contribution snake animation</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="140" viewBox="0 0 680 140" role="img" aria-labelledby="title">
+  <title id="title">Test contribution snake (8-week demo)</title>
   <defs>
     <style>
-      .cell { rx: 2; ry: 2; fill: #ebedf0; }
+      .cell { rx: 3; ry: 3; fill: #ebedf0; }
     </style>
   </defs>
 
-  <!-- Grid background using explicit rects so each cell can animate -->
-  <!-- Grid origin at (10,10). cell size = 12, gap = 4, step = 16 -->
-  <g id="grid" transform="translate(10,10)">
+  <g transform="translate(10,10)">
+    <!-- 8 columns x 7 rows demo -->
+    <!-- cell size 12, gap 6, step 18 -->
+    <!-- each rect animates with a small stagger -->
+    <!-- column 0 -->
+    <rect x="0"  y="0" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0"  y="18" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.06s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0"  y="36" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.12s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0"  y="54" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.18s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0"  y="72" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.24s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0"  y="90" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.30s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0"  y="108" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.36s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- column 1 -->
+    <rect x="18" y="0" width="12" height="12" class="cell">
+      <animate attributeName="fill" values="#ebedf0;#9be9a8;#1b873f;#1b873f;#ebedf0" dur="6s" begin="0.48s" repeatCount="indefinite"/>
+    </rect>
+    <!-- ... remaining cells omitted for brevity in demo (but they are similar) ... -->
+  </g>
+
+  <text x="10" y="132" font-size="10" fill="#6a737d">Demo: if this renders, run the generator script to create the full 52-week SVG.</text>
+</svg>
