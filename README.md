@@ -12,15 +12,26 @@ I'm a Discord developer building bots, integrations and small tooling. I work ma
 
 ## About
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 - Currently: building Discord bots and automation tools using Node.js.
 - Learning: deeper TypeScript patterns and async system design.
 - Open to: collaboration on bots, API integrations, and small backend utilities.
 
+</td>
+<td valign="top" width="45%">
+
+[![k77y's Discord status](https://dsc-readme.tsuni.dev/api/user/1012380433025073212?theme=dark&width=512&font=vampyre&effect=neon)](https://github.com/the-snesler/discord-github-preview)
+
+</td>
+</tr>
+</table>
+
 ## Contributions
 
 <img src="./pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="1166" />
-
-[![k77y's Discord status](https://dsc-readme.tsuni.dev/api/user/1012380433025073212?theme=dark&width=512&font=vampyre&effect=neon)](https://github.com/the-snesler/discord-github-preview)
 
 ## Contact
 
