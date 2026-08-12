@@ -16,6 +16,8 @@ I'm a Discord developer building bots, integrations and small tooling. I work ma
 <tr>
 <td valign="top" width="55%">
 
+Most of what I build lives inside Discord — bots that automate the boring stuff and small tools that make servers easier to run. Outside of that, I'm slowly leveling up into a more backend-focused, TypeScript-heavy developer.
+
 - Currently: building Discord bots and automation tools using Node.js.
 - Learning: deeper TypeScript patterns and async system design.
 - Open to: collaboration on bots, API integrations, and small backend utilities.
