@@ -10,26 +10,17 @@ I'm a Discord developer building bots, integrations and small tooling. I work ma
 
 ---
 
+<div align="center">
+
 ## About
 
-<table>
-<tr>
-<td valign="top" width="55%">
+Discord bots by day, backend rabbit holes by night. I build things that run quietly in the background so servers don't have to think — automations, integrations, the glue nobody notices until it's gone.
 
-Most of what I build lives inside Discord — bots that automate the boring stuff and small tools that make servers easier to run. Outside of that, I'm slowly leveling up into a more backend-focused, TypeScript-heavy developer.
+🤖 **Building:** Discord bots & automation tooling in Node.js
+📚 **Leveling up:** TypeScript, async architecture, systems that don't fall over
+🤝 **Open to:** bot collabs, API integrations, backend side quests
 
-- Currently: building Discord bots and automation tools using Node.js.
-- Learning: deeper TypeScript patterns and async system design.
-- Open to: collaboration on bots, API integrations, and small backend utilities.
-
-</td>
-<td valign="top" width="45%">
-
-[![k77y's Discord status](https://dsc-readme.tsuni.dev/api/user/1012380433025073212?theme=dark&width=512&font=vampyre&effect=neon)](https://github.com/the-snesler/discord-github-preview)
-
-</td>
-</tr>
-</table>
+[![k77y's Discord status](https://dsc-readme.tsuni.dev/api/user/1012380433025073212?aboutMe=Discord+developer+who+builds+clean+websites%2C+custom+bots%2C+server+tools%2C+and+automation+that+make+online+communities+easier+to+manage.&theme=dark&width=552)](https://github.com/the-snesler/discord-github-preview)
 
 ## Contributions
 
@@ -41,6 +32,6 @@ Most of what I build lives inside Discord — bots that automate the boring stuf
 
 ## Contact
 
-- Email: yousseftsaz@gmail.com
-- Discord: #k77y
-- Portfolio / Links: Soon...
+📧 yousseftsaz@gmail.com &nbsp;|&nbsp; 💬 Discord: #k77y &nbsp;|&nbsp; 🔗 Portfolio: Soon...
+
+</div>
