@@ -18,11 +18,9 @@ I'm a Discord developer building bots, integrations and small tooling. I work ma
 
 ## Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph.svg">
-</picture>
+<img src="./pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="1166" />
+
+[![k77y's Discord status](https://dsc-readme.tsuni.dev/api/user/1012380433025073212?theme=dark&width=512&font=vampyre&effect=neon)](https://github.com/the-snesler/discord-github-preview)
 
 ## Contact
 
