@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7289DA,100:23272A&height=200&section=header&text=Arnold&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Developer%20%7C%20Node.js%20%7C%20TypeScript&descAlignY=55&descSize=17" width="100%"/>
 
-<a href="https://discord.com"><img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" /></a>
-<a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933&style=for-the-badge" /></a>
-<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" /></a>
-<a href="https://python.org"><img src="https://img.shields.io/badge/-Python-000?logo=python&logoColor=3776AB&style=for-the-badge" /></a>
+<img src="https://skillicons.dev/icons?i=nodejs,js,ts,py,discordjs,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -27,16 +23,6 @@ Discord developer focused on bots, automation, and backend tooling. Most of what
 <td width="33%" align="center"><b>Open to</b><br><sub>Bot collaborations, API integrations, backend work</sub></td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,py,discordjs,html,css,git,github,vscode&theme=dark" />
-
-</div>
 
 <br>
 
