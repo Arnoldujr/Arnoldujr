@@ -25,13 +25,21 @@ I build backend systems and automation tools, primarily for Discord communities.
 
 ---
 
+## Contributions
+
+![Pac-Man contribution graph](https://github.com/Arnoldujr/Arnoldujr/blob/output/github-contribution-grid-pacman.svg?raw=true)
+
+*The Pac‑Man eats your contributions – the more you commit, the more it eats.*
+
+---
+
 ## Projects
 
 | Project | Description |
 |---------|-------------|
-| [Project A](link) | Discord moderation bot with real-time event handling. |
+| [Project A](link) | Discord moderation bot with real‑time event handling. |
 | [Project B](link) | CLI tool for batch data processing written in TypeScript. |
-| [Project C](link) | RESTful API wrapper for a third-party service. |
+| [Project C](link) | RESTful API wrapper for a third‑party service. |
 
 ---
 
@@ -44,6 +52,6 @@ I build backend systems and automation tools, primarily for Discord communities.
 
 ## Connect
 
-- Email: yousseftsaz@gmail.com
-- Discord: `#k77y`
-- Portfolio: [arnold.dev](https://your-portfolio.com) (or remove if not ready)
+- Email: yousseftsaz@gmail.com  
+- Discord: [#k77y](https://discord.com/users/your_discord_user_id)  
+- Portfolio: [arnold.dev](https://your-portfolio.com)
