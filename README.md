@@ -1,37 +1,49 @@
-# Hi, I'm Arnold
+# Arnold
 
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933&style=flat-square)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=3776AB&style=flat-square)](https://python.org)
-[![Web](https://img.shields.io/badge/-Web-333?logo=html5&logoColor=E34F26&style=flat-square)](https://developer.mozilla.org)
-
-I'm a Discord developer building bots, integrations and small tooling. I work mainly with JavaScript and Node.js, I know some Python, and I do a bit of web development.
+Discord bot developer · Node.js · TypeScript · Automation
 
 ---
 
-<div align="center">
-
 ## About
 
-Discord bots by day, backend rabbit holes by night. I build things that run quietly in the background so servers don't have to think — automations, integrations, the glue nobody notices until it's gone.
+I build backend systems and automation tools, primarily for Discord communities. My work focuses on reliability, performance, and clean code. Currently diving deeper into TypeScript and asynchronous architectures.
 
-🤖 **Building:** Discord bots & automation tooling in Node.js
-📚 **Leveling up:** TypeScript, async architecture, systems that don't fall over
-🤝 **Open to:** bot collabs, API integrations, backend side quests
+- Core stack: JavaScript, Node.js, TypeScript
+- Learning: System design, distributed patterns
+- Open to: Bot collaborations, API integrations, backend projects
 
-[![k77y's Discord status](https://dsc-readme.tsuni.dev/api/user/1012380433025073212?aboutMe=Discord+developer+who+builds+clean+websites%2C+custom+bots%2C+server+tools%2C+and+automation+that+make+online+communities+easier+to+manage.&theme=dark&width=552)](https://github.com/the-snesler/discord-github-preview)
+---
 
-## Contributions
+## Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Arnoldujr/Arnoldujr/output/pacman-contribution-graph.svg">
-</picture>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Contact
+---
 
-📧 yousseftsaz@gmail.com &nbsp;|&nbsp; 💬 Discord: #k77y &nbsp;|&nbsp; 🔗 Portfolio: Soon...
+## Projects
 
-</div>
+| Project | Description |
+|---------|-------------|
+| [Project A](link) | Discord moderation bot with real-time event handling. |
+| [Project B](link) | CLI tool for batch data processing written in TypeScript. |
+| [Project C](link) | RESTful API wrapper for a third-party service. |
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Arnoldujr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnoldujr&layout=compact&theme=dark)
+
+---
+
+## Connect
+
+- Email: yousseftsaz@gmail.com
+- Discord: `#k77y`
+- Portfolio: [arnold.dev](https://your-portfolio.com) (or remove if not ready)
