@@ -6,11 +6,11 @@ Discord bot developer · Node.js · TypeScript · Automation
 
 ## About
 
-I build backend systems and automation tools, primarily for Discord communities. My work focuses on reliability, performance, and clean code. Currently diving deeper into TypeScript and asynchronous architectures.
+Backend engineer focused on Discord ecosystems and automation tooling. I write reliable, maintainable code that runs quietly in the background—handling events, orchestrating APIs, and keeping servers stable.
 
-- Core stack: JavaScript, Node.js, TypeScript
-- Learning: System design, distributed patterns
-- Open to: Bot collaborations, API integrations, backend projects
+- Core languages: JavaScript, TypeScript, Node.js  
+- Exploring: distributed systems, advanced async patterns  
+- Looking for: API-first projects, bot collaborations, backend side‑quests
 
 ---
 
@@ -25,11 +25,11 @@ I build backend systems and automation tools, primarily for Discord communities.
 
 ---
 
-## Contributions
+## Contribution Map
 
 ![Pac-Man contribution graph](https://github.com/Arnoldujr/Arnoldujr/blob/output/github-contribution-grid-pacman.svg?raw=true)
 
-*The Pac‑Man eats your contributions – the more you commit, the more it eats.*
+The graph updates daily—more commits mean more dots for Pac‑Man to eat.
 
 ---
 
@@ -37,21 +37,21 @@ I build backend systems and automation tools, primarily for Discord communities.
 
 | Project | Description |
 |---------|-------------|
-| [Project A](link) | Discord moderation bot with real‑time event handling. |
-| [Project B](link) | CLI tool for batch data processing written in TypeScript. |
-| [Project C](link) | RESTful API wrapper for a third‑party service. |
+| [Project A](link) | Real‑time Discord moderation bot with custom rule engine. |
+| [Project B](link) | Batch data processor written in TypeScript for log analysis. |
+| [Project C](link) | RESTful API wrapper for third‑party authentication. |
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arnoldujr&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnoldujr&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnoldujr&layout=compact&theme=dark)
 
 ---
 
 ## Connect
 
-- Email: yousseftsaz@gmail.com  
-- Discord: [#k77y](https://discord.com/users/your_discord_user_id)  
-- Portfolio: [arnold.dev](https://your-portfolio.com)
+- Email: [yousseftsaz@gmail.com](mailto:yousseftsaz@gmail.com)  
+- Discord: `#k77y`  
+- Portfolio: *coming soon* (or replace with your link)
