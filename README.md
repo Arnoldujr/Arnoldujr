@@ -16,11 +16,20 @@ Discord developer focused on bots, automation, and backend tooling. Most of what
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="33%" align="center"><b>Building</b><br><sub>Discord bots and automation tooling in Node.js</sub></td>
-<td width="33%" align="center"><b>Learning</b><br><sub>TypeScript and async system design</sub></td>
-<td width="33%" align="center"><b>Open to</b><br><sub>Bot collaborations, API integrations, backend work</sub></td>
+<td align="center" width="33%" valign="top">
+<h3>Building</h3>
+<sub>Discord bots and automation tooling in Node.js</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<h3>Learning</h3>
+<sub>TypeScript and async system design</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<h3>Open to</h3>
+<sub>Bot collaborations, API integrations, backend work</sub>
+</td>
 </tr>
 </table>
 
